@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Hilcar<br>just someone getting into tech, building things and figuring stuff out along the way..</p>
+<p align="left">I'm Coronel<br>just someone getting into tech, building things and figuring stuff out along the way..</p>
 
 ###
 
