@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">-studying IT (electricity & informatics)<br>-improving my development skills<br>-looking for opportunities to grow and gain experience</p>
+<p align="left">-studying IT<br>-improving my development skills<br>-looking for opportunities to grow and gain experience</p>
 
 ###
 
